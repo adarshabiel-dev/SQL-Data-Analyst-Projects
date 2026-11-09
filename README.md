@@ -8,7 +8,7 @@ This repository showcases my practical SQL skills through Beginner and Intermedi
 
 ### 01. Beginner Retail Sales Analysis
 
-**Folder:** `01-Beginner-Retail-Sales-Analysis`
+**Folder:** 01-Beginner-Retail-Sales-Analysis
 
 A beginner-level SQL project focused on analyzing retail sales data and understanding business performance.
 
@@ -31,7 +31,7 @@ A beginner-level SQL project focused on analyzing retail sales data and understa
 
 ### 02. Intermediate Retail Sales Analysis
 
-**Folder:** `02-Intermediate-Retail-Sales-Analysis`
+**Folder:** 02-Intermediate-Retail-Sales-Analysis
 
 An intermediate-level SQL project focused on combining multiple tables and performing advanced data analysis using MySQL.
 
