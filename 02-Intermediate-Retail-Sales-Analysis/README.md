@@ -4,8 +4,8 @@ Unlike the Beginner SQL Project, this project uses two tables created manually u
 
 **Tables Created:**
 
-1. `myntra1` – Contains Customer ID, Customer Name and Product Category.
-2. `myntra2` – Contains Customer ID, Sub-Category and Product Price.
+1. myntra1 – Contains Customer ID, Customer Name and Product Category.
+2. myntra2 – Contains Customer ID, Sub-Category and Product Price.
 
 **Data Preparation:**
 
