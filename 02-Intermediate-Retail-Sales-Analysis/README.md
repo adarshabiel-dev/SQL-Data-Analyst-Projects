@@ -17,7 +17,7 @@ The dataset is created directly within the SQL script, so no external CSV file i
 
 ## How to Run This Project
 
-1. Download the `Intermediate_SQL_Project.sql` file.
+1. Download the Intermediate_SQL_Project.sql file.
 2. Open MySQL Workbench.
 3. Execute the script to create and populate both tables.
 4. Run the SQL queries to explore JOINs and Window Functions.
